@@ -81,5 +81,3 @@ Atualmente, trabalho em projetos que envolvem **Python**, **Node.js**, **React**
 > mas aquele que qualquer desenvolvedor entende e aprimora com prazer.”
 
 ---
-
-⭐️ **Feito com dedicação, café e criatividade.**
