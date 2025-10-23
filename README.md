@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou Christophe Gabriel</h1>
+<h1 align="center">👋 Olá, eu sou Christophe Guerra</h1>
 
 <p align="center">
   🚀 Desenvolvedor Full Stack | 💻 Apaixonado por Tecnologia e Clean Code | 🧩 Explorador de Machine Learning
