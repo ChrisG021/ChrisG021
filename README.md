@@ -47,6 +47,8 @@ Atualmente, trabalho em projetos que envolvem **Python**, **Node.js**, **React**
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?logo=githubactions&logoColor=white)
+
 
 ---
 
